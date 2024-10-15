@@ -1,0 +1,10 @@
+.todolist{
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px 5px rgb(0, 0,0,0.2);
+    width: 725px;
+    margin: 0 auto;
+    position: relative;
+    top: 70px;
+    padding: 6px;
+}
